@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lehas\\OneDrive\\Escritorio\\GitHub Repos\\MathGame\\MathGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9644D757-C01B-4D5C-A0FC-24CDA660ACF8}|MathGame.csproj|c:\\users\\lehas\\onedrive\\escritorio\\github repos\\mathgame\\mathgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9644D757-C01B-4D5C-A0FC-24CDA660ACF8}|MathGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lehas\\OneDrive\\Escritorio\\GitHub Repos\\MathGame\\MathGame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lehas\\OneDrive\\Escritorio\\GitHub Repos\\MathGame\\MathGame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T17:59:43.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
